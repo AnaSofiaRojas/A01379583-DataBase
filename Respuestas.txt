@@ -1,0 +1,16 @@
+¿Cuáles fueron los 5 países más productores de gases invernadero en 2010?
+Estados Unidos, Union Europea
+
+¿Cuáles fueron los 5 países más poblados en 2010?
+Brazil
+Indonesia
+India
+Estados Unidos
+China
+
+¿Cómo se relacionan?
+Como los .csv no tienen como el mismo orden y mismos datos por ejemplo Brazil no se encuentra en el de green house gases
+no resulta muy claro ver una relación a excepción de que Estados Unidos se encuentra en el top 5.
+
+
+
